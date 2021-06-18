@@ -18,7 +18,7 @@ This program was developed and modified with Visual Studio 2019 <br>
 [https://github.com/gellston/KoreanNewsCollector/releases/tag/1.0](https://github.com/gellston/KoreanNewsCollector/releases/tag/1.0)
 
 # Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://github.com/gellston/KoreanNewsCollector/blob/main/screenshot/screenshow.png)](https://www.youtube.com/watch?v=O8Ih1DSBUlQ)
 
 
 # License 
