@@ -10,6 +10,7 @@
 # KoreanNewsCollector
 KoreanNewsCollector is free software for collecting korean news articles <br>
 Currently, the program collects articles from the websites listed below.
+ - The PR
 
 # Build
 This program was developed and modified with Visual Studio 2019 <br>
